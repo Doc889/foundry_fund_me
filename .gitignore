@@ -15,8 +15,5 @@ docs/
 
 .DS-Store
 Makefile
-foundry.lock
 .gas-snapshot
 /broadcast
-.github
-.gitmodules
